@@ -30,4 +30,5 @@ func main() {
 	data.Do(func(value any) {
 		fmt.Println(value)
 	})
+
 }
